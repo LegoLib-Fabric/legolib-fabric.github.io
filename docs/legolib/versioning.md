@@ -11,10 +11,6 @@ permalink: docs/legolib/versioning
 
 LegoLib has four release types.  
 
-{: .warning }  
-> LegoLib 3.0.0 is not yet released.  
-> This documentation is not complete.  
-
 | Release Type        | Short Code |  Long Code           | Description                                                                                                                                                                          |  
 |:--------------------|:-----------|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | Alpha               | `alpha`    |  `ALHPA`             | These releases are early in development and will often will contain bugs, and/or unfinished code.                                                                                    |  
