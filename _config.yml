@@ -10,9 +10,12 @@ aux_links:
   Media: https://github.com/LegoLib-Fabric/community/tree/main/media
   
 nav_external_links:
-  Github: https://github.com/LegoLib-Fabric
-  Documentation: https://github.com/LegoLib-Fabric/community/tree/main/docs
-  Media: https://github.com/LegoLib-Fabric/community/tree/main/media
+  - title: Github
+    url: https://github.com/LegoLib-Fabric
+  - title: Issues
+    url: https://github.com/LegoLib-Fabric/LegoLib/issues
+  - title: Resources
+    url: https://github.com/LegoLib-Fabric/community
 
 nav_sort: case_sensitive
 
