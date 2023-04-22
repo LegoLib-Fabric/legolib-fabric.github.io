@@ -61,6 +61,8 @@ Make sure the filename is the name in lowercase.
 ## Textures  
 
 entity_names uses the same texture layout as the vanilla entity.  
+
+{: .note }  
 [mcasset.cloud](https://mcasset.cloud) is a great resource to obtain vanilla resources.  
 
 
