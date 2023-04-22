@@ -11,6 +11,7 @@ This is the format of the entity_names JSON.
 entity_names allows for a custom texture for named entities.
 
 ## JSON Format
+
 | Field        | Type   | Description                    |
 |:-------------|:-------|:-------------------------------|
 | `name`       | String | The custom name of the entity. |
@@ -27,14 +28,7 @@ This example will change the texture of an allay named `Golden` to `legolib:text
 
 
 ## Entity Types
-| Entity Types |  
-|:-------------|  
-| `allay`      |  
 
-## Test
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Entity Types |
+|:-------------|
+| `allay`      |
