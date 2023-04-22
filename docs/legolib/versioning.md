@@ -11,13 +11,13 @@ permalink: docs/legolib/versioning
 
 ## Version Types
 
-| Version Type | Description                                                |  
-|:-------------|:-----------------------------------------------------------|  
-| Major        | The major version only increases after a full rewrite.     |  
-| Minor        | The minor version increases every release cycle.           |  
-| Patch        | The patch version increases if a patch is required.        |  
-| Release Type | The release type changes throughout the development cycle. |  
-| Build        | The build version increases every release.                 |  
+| Version Type | Description                                                                                                                              |  
+|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------|  
+| Major                                                                                      | The major version only increases after a full rewrite.     |  
+| Minor                                                                                      | The minor version increases every release cycle.           |  
+| Patch                                                                                      | The patch version increases if a patch is required.        |  
+| [Release Type](https://legolib-fabric.mclegoman.com/docs/legolib/versioning#release-types) | The release type changes throughout the development cycle. |  
+| Build                                                                                      | The build version increases every release.                 |  
 
 
 ### Release Types  
