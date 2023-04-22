@@ -21,23 +21,18 @@ LegoLib's current version is: `3.0.0.alpha.1`.
 ### Major Version  
 
 LegoLib's major version only changes when a full rewrite is done.  
-The current major version is: `3`.  
 
 ### Minor Version  
 
 LegoLib's minor version changes every full release cycle.  
-The current minor version is: `0`.  
 
 ### Patch Version  
 
 LegoLib's minor version changes every time a patch is required.  
-The current patch version is: `0`.  
 
 ### Release Types  
 
 LegoLib's release type changes throughout the development cycle.  
-The current release type is: `ALHPA`.  
-
 LegoLib has four release types.  
 
 
@@ -51,4 +46,3 @@ LegoLib has four release types.
 ### Build Version  
 
 LegoLib's build version changes every time a new build is released.  
-The current build version is: `1`.  
