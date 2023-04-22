@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://legolib-fabric.github.io
   
 nav_external_links:
+  - title: Curseforge
+    url: https://www.curseforge.com/minecraft/mc-mods/legolib
   - title: Github
     url: https://github.com/LegoLib-Fabric
   - title: Issues
