@@ -8,3 +8,15 @@ aux_links:
   Github: https://github.com/LegoLib-Fabric
   Documentation: https://github.com/LegoLib-Fabric/community/tree/main/docs
   Media: https://github.com/LegoLib-Fabric/community/tree/main/media
+  
+nav_external_links:
+  Github: https://github.com/LegoLib-Fabric
+  Documentation: https://github.com/LegoLib-Fabric/community/tree/main/docs
+  Media: https://github.com/LegoLib-Fabric/community/tree/main/media
+
+nav_sort: case_sensitive
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 Daniel-Tayden Larsen."
