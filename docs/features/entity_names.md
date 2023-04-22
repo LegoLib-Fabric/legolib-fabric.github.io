@@ -13,7 +13,6 @@ LegoLib v3.0.0 or later.
 
 ALPHA  
 {: .label .label-yellow }  
-
 This is the format of the entity_names JSON.  
 entity_names allows for a custom texture for named entities.  
 
