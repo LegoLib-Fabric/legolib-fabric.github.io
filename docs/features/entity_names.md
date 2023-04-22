@@ -21,7 +21,7 @@ entity_names allows for a custom texture for named entities.
 
 ## Example
 
-File: `legolib/textures/entity_names/allay/golden.json`
+File: `assets/legolib/textures/entity_names/allay/golden.json`
 ```
 {
     "name": "Golden"
