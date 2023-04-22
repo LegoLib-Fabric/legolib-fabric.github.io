@@ -7,6 +7,10 @@ nav_order: 3
 permalink: docs/features/entity_names
 ---
 # entity_names  
+{: .d-inline-block }  
+
+ALPHA  
+{: .label .label-green }  
 
 This is the format of the entity_names JSON.  
 entity_names allows for a custom texture for named entities.  
