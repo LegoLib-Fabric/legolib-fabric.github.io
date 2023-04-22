@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 permalink: /tutorials
 ---
-## Tutorials  
+# Tutorials  
 {: .d-inline-block }  
 
 Enhancing the FabricMC Experience  

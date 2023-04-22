@@ -5,7 +5,7 @@ nav_order: 5
 has_children: false
 permalink: /license
 ---
-### Attribution and Licencing  
+# Attribution and Licencing  
 {: .d-inline-block }  
 
 This website uses the [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) Jekyll template.  

@@ -6,7 +6,7 @@ grand_parent: Documentation
 nav_order: 1
 permalink: docs/legolib/versioning
 ---
-## Versioning  
+# Versioning  
 {: .d-inline-block }  
 
 LegoLib has four release types.  
