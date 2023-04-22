@@ -1,6 +1,6 @@
 title: LegoLib
 description: Enhancing the FabricMC Experience
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 url: https://legolib-fabric.mclegoman.com
   
