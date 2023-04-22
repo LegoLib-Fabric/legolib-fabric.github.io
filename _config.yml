@@ -38,4 +38,4 @@ back_to_top_text: "Back to top"
 
 color_scheme: dark
 
-footer_content: "[![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)</br>This documentation is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) License.</br></br>Copyright &copy; 2023 Daniel-Tayden Larsen.</br>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Mojang AB or Microsoft."
+footer_content: "</br>Copyright &copy; 2023 Daniel-Tayden Larsen.</br>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Mojang AB or Microsoft."
