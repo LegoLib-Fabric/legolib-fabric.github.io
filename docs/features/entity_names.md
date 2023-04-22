@@ -4,7 +4,6 @@ title: entity_names
 parent: Features
 grand_parent: Documentation
 nav_order: 3
-has_children: true
 permalink: docs/features/entity_names
 ---
 ## LegoLib for Fabric  
