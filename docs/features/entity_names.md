@@ -35,8 +35,8 @@ This example will change the texture of an allay named `Golden` to
 
 **Please Note:** Make sure the filename of the texture file is the lowercase version of the name.  
 
-| Entity Type   | JSON Location                                       | Texture Location                                             |  
-|:--------------|:----------------------------------------------------|:-------------------------------------------------------------|  
+| Entity Type   | JSON Location                                       | Texture Location                                            |  
+|:--------------|:----------------------------------------------------|:------------------------------------------------------------|  
 | `allay`       | `assets/legolib/entity_names/allay/name.json`       | `assets/legolib/textures/entity_names/allay/name.png`       |  
 | `armor_stand` | `assets/legolib/entity_names/armor_stand/name.json` | `assets/legolib/textures/entity_names/armor_stand/name.png` |  
 | `arrow`       | `assets/legolib/entity_names/arrow/name.json`       | `assets/legolib/textures/entity_names/arrow/name.png`       |  
