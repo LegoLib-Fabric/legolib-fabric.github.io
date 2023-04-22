@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Features: entity_names
+title: entity_names
 nav_order: 2
 description: "Enhancing the FabricMC Experience"
-permalink: /
+permalink: /entity_names
 ---
 ## LegoLib for Fabric
 Enhancing the FabricMC Experience
