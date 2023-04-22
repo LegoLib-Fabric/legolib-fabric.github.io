@@ -1,6 +1,6 @@
 ---
 layout: default
-title: entity_names
+title: Entity Names
 parent: Features
 nav_order: 1
 description: "Enhancing the FabricMC Experience"
