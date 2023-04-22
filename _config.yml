@@ -26,6 +26,17 @@ search:
 
 enable_copy_code_button: true
 
+callouts:
+  warning:
+    title: WARNING
+    color: red
+  note:
+    title: NOTE
+    color: blue
+  important:
+    title: IMPORTANT
+    color: blue
+
 nav_sort: case_sensitive
 
 back_to_top: true
