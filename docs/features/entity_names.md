@@ -8,7 +8,6 @@ permalink: docs/features/entity_names
 ---
 {: .requires }
 LegoLib v3.0.0 or later.
-
 # entity_names  
 {: .d-inline-block }  
 
