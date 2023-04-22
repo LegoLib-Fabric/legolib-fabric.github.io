@@ -7,8 +7,10 @@ nav_order: 3
 permalink: docs/features/entity_names
 ---
 # entity_names
+
 This is the format of the entity_names JSON.
 entity_names allows for a custom texture for named entities.
+
 
 ## JSON Format
 
@@ -18,6 +20,7 @@ entity_names allows for a custom texture for named entities.
 
 
 ### Example
+
 File: `legolib/textures/entity_names/allay/golden.json`
 ```
 {
@@ -33,3 +36,8 @@ This example will change the texture of an allay named `Golden` to
 | Entity Types |
 |:-------------|
 | `allay`      |
+
+
+## Resource Pack Template
+
+[Download Template](https://github.com/LegoLib-Fabric/community/tree/main/templates/entity_names){: .btn .btn-purple }
