@@ -52,6 +52,12 @@ This example will change the texture of an allay named `Golden` to
 | `creeper`     | `assets/legolib/entity_names/creeper/name.json`     | `assets/legolib/textures/entity_names/creeper/name.png`     |  
 
 
+## Textures  
+
+entity_names uses the same texture layout as the vanilla entity.  
+[mcasset.cloud](https://mcasset.cloud) is a great resource to obtain vanilla resources.  
+
+
 ## Resource Pack Template  
 
 Use our resource pack template to get started  
