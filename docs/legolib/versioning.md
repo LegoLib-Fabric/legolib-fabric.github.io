@@ -20,7 +20,7 @@ LegoLib's current version is: `3.0.0.alpha.1`.
 
 ### Major Version  
 
-LegoLib's major version only changes when a full rewrite is done.  
+LegoLib's major version changes after a full rewrite.
 
 ### Minor Version  
 
