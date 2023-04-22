@@ -8,3 +8,5 @@ permalink: docs/legolib
 ---
 # LegoLib 
 {: .d-inline-block }  
+
+Contains all LegoLib modules.  

@@ -9,4 +9,4 @@ permalink: docs/base
 # Base  
 {: .d-inline-block }  
 
-Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  
+Contains functions required by all modules.  
