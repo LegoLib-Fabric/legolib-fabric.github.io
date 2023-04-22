@@ -8,4 +8,5 @@ permalink: docs
 # Documentation  
 {: .d-inline-block }  
 
-Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  
+This documentation contains information for LegoLib.  
+For step-by-step guides check [Tutorials](https://legolib-fabric.mclegoman.com/tutorials).  

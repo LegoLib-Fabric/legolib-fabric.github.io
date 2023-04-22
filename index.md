@@ -7,6 +7,10 @@ has_children: false
 permalink: /
 ---
 # LegoLib  
+{: .d-inline-block }  
 
 Enhancing the FabricMC Experience  
-Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  
+
+{: .warning }
+> LegoLib 3.0.0 is not yet released.
+> This documentation is not complete.
