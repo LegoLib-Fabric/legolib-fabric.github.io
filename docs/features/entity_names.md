@@ -24,7 +24,8 @@ entity_names allows for a custom texture for named entities.
     "name": "Golden"
 }
 ```
-This example will change the texture of an allay named `Golden` to `legolib:textures/entity_names/allay/golden.png`
+This example will change the texture of an allay named `Golden` to  
+`legolib:textures/entity_names/allay/golden.png`
 
 
 ## Entity Types
