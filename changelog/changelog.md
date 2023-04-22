@@ -7,3 +7,7 @@ permalink: changelog
 ---
 # Change Log  
 {: .d-inline-block }  
+
+{: .note }  
+> LegoLib 3.0.0 is not yet released.  
+> Change Logs are not yet avaliable.   
