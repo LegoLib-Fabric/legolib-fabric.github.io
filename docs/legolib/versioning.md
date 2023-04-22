@@ -11,6 +11,9 @@ permalink: docs/legolib/versioning
 
 LegoLib has four release types.  
 
+{: .requires }  
+LegoLib v3.0.0 or later.  
+
 | Release Type        | Short Code |  Long Code           | Description                                                                                                                                                                          |  
 |:--------------------|:-----------|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | Alpha               | `alpha`    |  `ALHPA`             | These releases are early in development and will often will contain bugs, and/or unfinished code.                                                                                    |  
