@@ -12,9 +12,6 @@ permalink: docs/legolib/versioning
 LegoLib Versioning consists of a  
 Major Version, Minor Version, Patch Version, Release Type, and Build Version.  
 
-{: .currentversion }  
-3.0.0-alpha.1  
-
 ### Major Version  
 
 LegoLib's major version changes after a full rewrite.  
