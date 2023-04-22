@@ -63,7 +63,7 @@ Make sure the filename is the name in lowercase.
 entity_names uses the same texture layout as the vanilla entity.  
 
 {: .recommendedtools }  
-> [mcasset.cloud](https://mcasset.cloud) is great for exploreing and extracting vanilla assets.  
+> [mcasset.cloud](https://mcasset.cloud) is great for exploring and extracting vanilla assets.  
 > [Blockbench](https://www.blockbench.net) is great for creating and editing minecraft textures.   
 > *LegoLib is not affiliated with these tools.*
 
