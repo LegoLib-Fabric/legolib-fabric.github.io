@@ -6,16 +6,17 @@ grand_parent: Documentation
 nav_order: 3
 permalink: docs/features/entity_names
 ---
-{: .requires }
-LegoLib v3.0.0 or later.
 # entity_names  
 {: .d-inline-block }  
 
 ALPHA  
 {: .label .label-yellow }  
+
 This is the format of the entity_names JSON.  
 entity_names allows for a custom texture for named entities.  
 
+{: .requires }
+LegoLib v3.0.0 or later.
 
 ## JSON Format  
 
