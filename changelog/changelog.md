@@ -8,7 +8,13 @@ permalink: changelog
 # Change Log  
 
 
-## LegoLib v3.0.0-alpha.1  
+## LegoLib v3.0.0-alpha.1
+  
+ALPHA
+{: .label .label-yellow }
+
+NOT RELEASED
+{: .label .label-red }
 
 **Update not released, this list is not final!**  
 + Split LegoLib into modules  
