@@ -64,7 +64,7 @@ entity_names uses the same texture layout as the vanilla entity.
 
 {: .recommendedtools }  
 > [mcasset.cloud](https://mcasset.cloud) is great for exploring and extracting vanilla assets. [^1]  
-> [Blockbench](https://www.blockbench.net) is great for creating and editing minecraft textures. [^1]   
+> [Blockbench](https://www.blockbench.net) is great for creating and editing minecraft textures. [^2]   
 
 
 ## Resource Pack Template  
@@ -74,4 +74,5 @@ Use our resource pack template to get started
 [Download Template](https://github.com/LegoLib-Fabric/community/tree/main/templates/entity_names){: .btn .btn-purple }  
 
 
-[^1]: LegoLib is not affiliated with this tool/service, we just really like what they do.  
+[^1]: We are not affiliated with [mcasset.cloud](https://mcasset.cloud).  
+[^2]: We are not affiliated with [Blockbench](https://www.blockbench.net).  
