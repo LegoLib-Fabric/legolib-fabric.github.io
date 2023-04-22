@@ -36,6 +36,9 @@ callouts:
   note:
     title: NOTE
     color: purple
+  requires:
+    title: REQUIRES
+    color: yellow
 
 nav_sort: case_sensitive
 
