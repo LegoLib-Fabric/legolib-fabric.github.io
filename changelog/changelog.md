@@ -6,6 +6,7 @@ has_children: false
 permalink: changelog
 ---
 # Change Log  
+{: .d-inline-block }  
 
 ## LegoLib [v3.0.0-alpha.1]  
 ALPHA

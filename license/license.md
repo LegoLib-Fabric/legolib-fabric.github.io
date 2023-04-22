@@ -5,10 +5,9 @@ nav_order: 5
 has_children: false
 permalink: /license
 ---
-## LegoLib  
-Enhancing the FabricMC Experience  
-
 ### Attribution and Licencing  
+{: .d-inline-block }  
+
 This website uses the [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) Jekyll template.  
 The [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) template is licensed under the [MIT](https://github.com/just-the-docs/just-the-docs-template/blob/main/LICENSE) license.  
 
