@@ -8,8 +8,9 @@ permalink: changelog
 # Change Log  
 
 
-## v3.0.0-alpha.1  
+## LegoLib v3.0.0-alpha.1  
 
 **Update not released, this list is not final!**  
-  + Split LegoLib into modules  
-  + Added entity_names feature  
+  + Split LegoLib into modules
+  + **LegoLib: Features v1.0.0-alpha.1**
+    + Added [entity_names](https://legolib-fabric.github.io/docs/features/entity_names) feature  
