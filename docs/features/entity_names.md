@@ -63,7 +63,7 @@ Make sure the filename is the name in lowercase.
 entity_names uses the same texture layout as the vanilla entity.  
 
 {: .note }  
-[mcasset.cloud](https://mcasset.cloud) is a great resource to explore and extract vanilla resources.  
+[mcasset.cloud](https://mcasset.cloud) is a great resource to explore and extract vanilla assets.  
 
 
 ## Resource Pack Template  
