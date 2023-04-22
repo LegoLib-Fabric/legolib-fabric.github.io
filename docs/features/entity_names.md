@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Entity Names
+title: entity_names
 parent: Features
 nav_order: 1
 description: "Enhancing the FabricMC Experience"
 has_children: false
-permalink: /docs/features/entity_names
 ---
 ## LegoLib for Fabric
 Enhancing the FabricMC Experience
