@@ -33,7 +33,7 @@ This example will change the texture of an allay named `Golden` to
 
 ## Entity Types  
 
-{: .important }
+{: title="IMPORTANT"}  
 > Make sure the filename is the name in lowercase.  
 
 | Entity Type   | JSON Location                                       | Texture Location                                            |  
