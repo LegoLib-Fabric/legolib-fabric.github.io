@@ -10,3 +10,7 @@ permalink: docs/api
 {: .d-inline-block }  
 
 Contains API related functions.  
+
+{: .warning }  
+> LegoLib 3.0.0 is not yet released.  
+> This documentation is not complete.  

@@ -14,8 +14,12 @@ ALPHA
 
 entity_names allows for a custom texture for named entities.  
 
-{: .requires }
-LegoLib v3.0.0 or later.
+{: .requires }  
+LegoLib v3.0.0 or later.  
+
+{: .warning }  
+> LegoLib 3.0.0 is not yet released.  
+> This documentation is not complete.  
 
 ## JSON Format  
 

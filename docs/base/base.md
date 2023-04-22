@@ -10,3 +10,7 @@ permalink: docs/base
 {: .d-inline-block }  
 
 Contains functions required by all modules.  
+
+{: .warning }  
+> LegoLib 3.0.0 is not yet released.  
+> This documentation is not complete.  

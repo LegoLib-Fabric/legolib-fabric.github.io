@@ -15,6 +15,10 @@ LegoLib has four release types.
   - `RELEASE_CANDIDATE`  
   - `RELEASE`  
 
+{: .warning }  
+> LegoLib 3.0.0 is not yet released.  
+> This documentation is not complete.  
+
 `ALPHA` releases are early in development.  
 `ALPHA` releases will often will contain bugs, and/or unfinished code.  
 
