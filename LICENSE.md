@@ -1,3 +1,4 @@
+Just The Docs Template:
 MIT License
 
 Copyright (c) 2022 just-the-docs
