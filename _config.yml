@@ -17,6 +17,20 @@ nav_external_links:
   - title: Resources
     url: https://github.com/LegoLib-Fabric/community
 
+logo: "https://github.com/LegoLib-Fabric/community/blob/main/media/legolib-logo/legolib-logo_64.png"
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+enable_copy_code_button: true
+
 nav_sort: case_sensitive
 
 back_to_top: true
