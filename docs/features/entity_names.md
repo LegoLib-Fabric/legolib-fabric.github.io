@@ -33,9 +33,9 @@ This example will change the texture of an allay named `Golden` to
 
 ## Entity Types
 
-| Entity Types |
-|:-------------|
-| `allay`      |
+| Entity Type |
+|:------------|
+| `allay`     |
 
 
 ## Resource Pack Template
