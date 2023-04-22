@@ -9,7 +9,8 @@ permalink: docs/legolib/versioning
 # Versioning  
 {: .d-inline-block }  
 
-LegoLib Versioning consists of a Major Version, Minor Version, Patch Version, Release Type, and Build Version.  
+LegoLib Versioning consists of a  
+Major Version, Minor Version, Patch Version, Release Type, and Build Version.  
 
 {: .requires }  
 LegoLib v3.0.0 or later.  
