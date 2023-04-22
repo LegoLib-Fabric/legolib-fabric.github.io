@@ -7,17 +7,16 @@ nav_order: 3
 permalink: docs/features/entity_names
 ---
 # entity_names  
-{: .d-inline-block }  
+{: .d-inline-block }
 
 ALPHA  
-{: .label .label-yellow }  
-
-{: .requires }
-Requires LegoLib v3.0.0 or later.
+{: .label .label-yellow }
 
 This is the format of the entity_names JSON.  
 entity_names allows for a custom texture for named entities.  
 
+{: .requires }
+Requires LegoLib v3.0.0 or later.
 
 ## JSON Format  
 
