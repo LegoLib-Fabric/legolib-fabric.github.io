@@ -36,6 +36,9 @@ callouts:
   note:
     title: NOTE
     color: purple
+  recommendedtools:
+    title: RECOMMENDED TOOLS
+    color: green
   requires:
     title: REQUIRES
     color: yellow
