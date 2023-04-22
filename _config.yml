@@ -33,4 +33,6 @@ nav_sort: case_sensitive
 back_to_top: true
 back_to_top_text: "Back to top"
 
+color_scheme: dark
+
 footer_content: "Copyright &copy; 2023 Daniel-Tayden Larsen."
