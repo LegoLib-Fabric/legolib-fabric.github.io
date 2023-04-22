@@ -1,5 +1,8 @@
 title: LegoLib for Fabric
 description: Enhancing the FabricMC Experience
-baseurl: "/"
-url: "https://legolib-fabric.github.io"
-repository: LegoLib-Fabric/legolib-fabric.github.io
+theme: just-the-docs
+
+url: https://legolib-fabric.github.io
+
+aux_links:
+  Github: https://github.com/LegoLib-Fabric
