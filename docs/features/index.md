@@ -4,6 +4,7 @@ title: Features
 parent: Documentation
 nav_order: 3
 description: "Enhancing the FabricMC Experience"
+has_children: true
 permalink: /docs/features
 ---
 ## LegoLib for Fabric

@@ -4,6 +4,7 @@ title: API
 parent: Documentation
 nav_order: 2
 description: "Enhancing the FabricMC Experience"
+has_children: true
 permalink: /docs/api
 ---
 ## LegoLib for Fabric

@@ -4,6 +4,7 @@ title: Base
 parent: Documentation
 nav_order: 1
 description: "Enhancing the FabricMC Experience"
+has_children: true
 permalink: /docs/base
 ---
 ## LegoLib for Fabric

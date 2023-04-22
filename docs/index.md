@@ -3,6 +3,7 @@ layout: default
 title: Documentation
 nav_order: 2
 description: "Enhancing the FabricMC Experience"
+has_children: true
 permalink: /docs
 ---
 ## LegoLib for Fabric
