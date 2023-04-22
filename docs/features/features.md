@@ -6,7 +6,6 @@ nav_order: 3
 has_children: true
 permalink: docs/features
 ---
-## LegoLib for Fabric
-Enhancing the FabricMC Experience
+## Features  
 
-Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.
+Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  

@@ -6,7 +6,6 @@ nav_order: 1
 has_children: false
 permalink: docs/base
 ---
-## LegoLib for Fabric  
-Enhancing the FabricMC Experience  
+## Base  
 
 Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  

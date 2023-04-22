@@ -6,7 +6,6 @@ nav_order: 2
 has_children: false
 permalink: docs/api
 ---
-## LegoLib for Fabric  
-Enhancing the FabricMC Experience  
+## API  
 
 Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  
