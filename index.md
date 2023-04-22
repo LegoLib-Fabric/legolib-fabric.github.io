@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Enhancing the FabricMC Experience"
+has_children: false
 permalink: /
 ---
 ## LegoLib for Fabric
