@@ -63,8 +63,8 @@ Make sure the filename is the name in lowercase.
 entity_names uses the same texture layout as the vanilla entity.  
 
 {: .note }  
-> [mcasset.cloud](https://mcasset.cloud) is a great tool to explore and extract vanilla assets.  
-> [Blockbench](https://www.blockbench.net) is a great tool to edit minecraft textures.  
+> [mcasset.cloud](https://mcasset.cloud) is a great tool to explore, and extract vanilla assets.  
+> [Blockbench](https://www.blockbench.net) is a great tool to edit, and create minecraft textures.   
 
 
 ## Resource Pack Template  
