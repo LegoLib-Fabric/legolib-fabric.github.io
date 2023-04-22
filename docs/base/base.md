@@ -11,6 +11,9 @@ permalink: docs/base
 
 Contains functions required by all modules.  
 
+{: .currentversion }  
+LegoLib: Base 1.0.0-alpha.1  
+
 {: .warning }  
 > LegoLib 3.0.0 is not yet released.  
 > This documentation is not complete.  
