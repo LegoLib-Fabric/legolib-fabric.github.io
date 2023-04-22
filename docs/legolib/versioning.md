@@ -10,24 +10,14 @@ permalink: docs/legolib/versioning
 {: .d-inline-block }  
 
 LegoLib has four release types.  
-  - `ALPHA`  
-  - `BETA`  
-  - `RELEASE_CANDIDATE`  
-  - `RELEASE`  
 
 {: .warning }  
 > LegoLib 3.0.0 is not yet released.  
 > This documentation is not complete.  
 
-`ALPHA` releases are early in development.  
-`ALPHA` releases will often will contain bugs, and/or unfinished code.  
-
-`BETA` releases are nearing the end of development.  
-`BETA` releases may still contain bugs, and/or unfinished code.  
-
-`RELEASE_CANDIDATE` releases are the final stage of development before release.  
-`RELEASE CANDIDATE` releases are the most polished development builds.  
-If no bugs are found `RELEASE_CANDIDATE` releases will turn into the final `RELEASE` release.  
-
-`RELEASE` releases are the final stable version.  
-`RELEASE` releases are less likely to contain bugs.  
+| Release Type        | Description                                                                                                                                                                                                                                                  |  
+|:--------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| `ALPHA`             | `ALPHA` releases are early in development.</br>`ALPHA` releases will often will contain bugs, and/or unfinished code.                                                                                                                                        |  
+| `BETA`              | `BETA` releases are nearing the end of development.</br>`BETA` releases may still contain bugs, and/or unfinished code.                                                                                                                                      |  
+| `RELEASE_CANDIDATE` | `RELEASE_CANDIDATE` releases are the final stage of development before release.</br>`RELEASE CANDIDATE` releases are the most polished development builds.</br>If no bugs are found `RELEASE_CANDIDATE` releases will turn into the final `RELEASE` release. |  
+| `RELEASE`           | `RELEASE` releases are the final stable version.</br>`RELEASE` releases are less likely to contain bugs.|  
