@@ -3,7 +3,10 @@ description: Enhancing the FabricMC Experience
 theme: just-the-docs
 
 url: https://legolib-fabric.mclegoman.com
-  
+
+aux_links:
+  Download: https://www.curseforge.com/minecraft/mc-mods/legolib/files
+
 nav_external_links:
   - title: Curseforge
     url: https://www.curseforge.com/minecraft/mc-mods/legolib
