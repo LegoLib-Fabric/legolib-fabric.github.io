@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Attribution and Licensing
-nav_order: 4
-description: "Enhancing the FabricMC Experience"
+nav_order: 5
 has_children: false
 permalink: /license
 ---
-## LegoLib for Fabric
-Enhancing the FabricMC Experience
+## LegoLib  
+Enhancing the FabricMC Experience  
 
 ### Attribution and Licencing  
 This website uses the [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) Jekyll template.  
