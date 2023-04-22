@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documentation
-nav_order: 1
+nav_order: 2
 description: "Enhancing the FabricMC Experience"
 permalink: /docs
 ---
