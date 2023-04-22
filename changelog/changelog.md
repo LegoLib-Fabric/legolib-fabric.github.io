@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Features
+title: Change Log
 nav_order: 4
 has_children: false
 permalink: changelog
