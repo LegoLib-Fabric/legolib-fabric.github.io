@@ -13,6 +13,8 @@ nav_external_links:
     url: https://github.com/LegoLib-Fabric/LegoLib/issues
   - title: Resources
     url: https://github.com/LegoLib-Fabric/community
+  - title: MCLegoMan
+    url: https://mclegoman.com
 
 search_enabled: true
 search:
