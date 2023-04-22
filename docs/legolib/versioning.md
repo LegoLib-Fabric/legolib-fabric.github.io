@@ -12,16 +12,12 @@ permalink: docs/legolib/versioning
 LegoLib Versioning consists of a  
 Major Version, Minor Version, Patch Version, Release Type, and Build Version.  
 
-{: .requires }  
-LegoLib v3.0.0 or later.  
-
-### Current Version  
-
-LegoLib's current version is: `3.0.0.alpha.1`.  
+{: .currentversion }  
+3.0.0-alpha.1  
 
 ### Major Version  
 
-LegoLib's major version changes after a full rewrite.
+LegoLib's major version changes after a full rewrite.  
 
 ### Minor Version  
 

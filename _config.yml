@@ -44,6 +44,9 @@ callouts:
   recommendedtools:
     title: RECOMMENDED TOOLS
     color: green
+  currentversion:
+    title: CURRENT VERSION
+    color: purple
   requires:
     title: REQUIRES
     color: yellow
