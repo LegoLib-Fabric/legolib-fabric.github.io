@@ -54,4 +54,6 @@ This example will change the texture of an allay named `Golden` to
 
 ## Resource Pack Template  
 
+Use our resource pack template to get started  
+
 [Download Template](https://github.com/LegoLib-Fabric/community/tree/main/templates/entity_names){: .btn .btn-purple }  
