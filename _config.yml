@@ -1,8 +1,8 @@
 title: LegoLib
 description: Enhancing the FabricMC Experience
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
-url: https://legolib-fabric.github.io
+url: https://legolib-fabric.mclegoman.com
   
 nav_external_links:
   - title: Curseforge
