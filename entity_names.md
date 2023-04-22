@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Features: entity_names
+nav_order: 2
 description: "Enhancing the FabricMC Experience"
 permalink: /
 ---
