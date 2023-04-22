@@ -6,7 +6,7 @@ description: "Enhancing the FabricMC Experience"
 has_children: false
 permalink: /
 ---
-## LegoLib
-Enhancing the FabricMC Experience
+## LegoLib  
 
-Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.
+Enhancing the FabricMC Experience  
+Documentation for LegoLib-Fabric will be avaliable once v3.0.0 has released.  
