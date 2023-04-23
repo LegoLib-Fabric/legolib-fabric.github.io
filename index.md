@@ -18,10 +18,10 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 {: .latestrelease }  
 >  
 > {: .release}  
-> LegoLib: Features **NOT RELEASED**
+> LegoLib 2.5.0  
 >  
 > {: .development}  
-> LegoLib: Features 1.0.0-alpha.1  
+> LegoLib 3.0.0-alpha.1  
 
 
 ## General Information  
