@@ -1,6 +1,6 @@
 release:
-    name: LegoLib
-    version: 2.5.0
+    name: "LegoLib"
+    version: "2.5.0"
 development:
-    name: LegoLib
-    version: 3.0.0-alpha.1
+    name: "LegoLib"
+    version: "3.0.0-alpha.1"

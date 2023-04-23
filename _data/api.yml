@@ -1,6 +1,6 @@
 release:
-    name: LegoLib: API
-    version: **NOT RELEASED**
+    name: "LegoLib: API"
+    version: "**NOT RELEASED**"
 development:
-    name: LegoLib: API
-    version: 1.0.0-alpha.1
+    name: "LegoLib: API"
+    version: "1.0.0-alpha.1"

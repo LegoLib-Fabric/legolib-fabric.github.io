@@ -1,4 +1,4 @@
 incomplete_documentation:
-    message: This documentation is not complete.
+    message: "This documentation is not complete."
 lowercase_name_filename:
-    message: Make sure the filename is the name in lowercase.
+    message: "Make sure the filename is the name in lowercase."
