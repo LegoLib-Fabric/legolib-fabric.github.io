@@ -10,3 +10,9 @@ permalink: changelog/api
 
 ## LegoLib: API  
 
+Find out what is new with LegoLib: API.  
+
+{: .note }  
+> LegoLib 3.0.0 is not yet released.  
+> Change Logs are not yet avaliable.   
+
