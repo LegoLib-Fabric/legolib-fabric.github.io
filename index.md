@@ -16,11 +16,11 @@ LegoLib is a Minecraft mod developed for Fabric. It helps mod developers to crea
 {: .latestrelease }  
 >  
 > {: .release}  
-> {% assign release = site.data.legolib[release] %}  
+> {% assign release = site.data.legolib["release"] %}  
 > {{ release.name }}{{ release.version }}  
 >  
 > {: .development}  
-> {% assign development = site.data.legolib[development] %}  
+> {% assign development = site.data.legolib["development"] %}  
 > {{ development.name }}{{ development.version }}  
 
 
