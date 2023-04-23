@@ -5,7 +5,7 @@ parent: Change Log
 nav_order: 4
 permalink: changelog/features
 ---
-## LegoLib: Features Change Log  
+# LegoLib: Features Change Log  
 {: .d-inline-block }  
 
 Find out what is new with LegoLib: Features.  
