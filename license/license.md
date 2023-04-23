@@ -24,7 +24,7 @@ This is the Attribution and Licensing Information for LegoLib and related media.
 | Name                                                                         | Attribution and Licencing                                                                          |  
 |:-----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|  
 | [LegoLib Documentation](https://legolib-fabric.mclegoman.com)                | This work is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. |  
-| [LegoLib Media](https://github.com/LegoLib-Fabric/community/tree/main/media) | Individual Licensing. Read `LICENSE.md` in the corrosponding folder.                               |  
+| [LegoLib Media](https://github.com/LegoLib-Fabric/community/tree/main/media) | Individual Licensing. Check the `LICENSE.md` in the corrosponding folder.                          |  
 
 ## Hosting  
 
