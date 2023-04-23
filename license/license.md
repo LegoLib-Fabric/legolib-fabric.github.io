@@ -19,7 +19,7 @@ This is the Attribution and Licensing Information for LegoLib and related media.
 | LegoLib: API      | This work is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. |  
 | LegoLib: Features | This work is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. |  
 
-# Documentation and Media  
+## Documentation and Media  
 
 | Name                                                                         | Attribution and Licencing                                                                          |  
 |:-----------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|  
