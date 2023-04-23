@@ -8,7 +8,7 @@ permalink: /license
 # Attribution and Licencing  
 {: .d-inline-block }  
 
-This is the Attribution and Licensing Information for LegoLib and related media.  
+This is the Attribution and Licensing Information for LegoLib related media.  
 
 ## Mods and Modules  
 
