@@ -15,9 +15,6 @@ LegoLib is a Minecraft mod developed for Fabric. It helps mod developers to crea
 
 Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) to download the mod!  
 
-
-## General Information  
-
 {: .latestrelease }  
 >  
 > {: .release}  
@@ -25,6 +22,8 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 >  
 > {: .development}  
 > LegoLib: Features 1.0.0-alpha.1  
+
+## General Information  
 
 {: .warning }  
 This documentation is not complete.  
