@@ -5,10 +5,8 @@ parent: Change Log
 nav_order: 3
 permalink: changelog/api
 ---
-# Change Log
+## LegoLib: API Change Log  
 {: .d-inline-block }  
-
-## LegoLib: API  
 
 Find out what is new with LegoLib: API.  
 

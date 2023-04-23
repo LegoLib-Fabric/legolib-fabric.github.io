@@ -5,10 +5,8 @@ parent: Change Log
 nav_order: 1
 permalink: changelog/legolib
 ---
-# Change Log
+## LegoLib Change Log  
 {: .d-inline-block }  
-
-## LegoLib  
 
 Find out what is new with LegoLib.  
 
