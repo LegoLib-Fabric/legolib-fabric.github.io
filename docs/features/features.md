@@ -11,8 +11,13 @@ permalink: docs/features
 
 Contains client-side feature related functions.  
 
-{: .currentversion }  
-LegoLib: Features 1.0.0-alpha.1  
+{: .latestrelease }  
+>  
+> {: .release}  
+> LegoLib: Features **NOT RELEASED**
+>  
+> {: .development}  
+> LegoLib: Features 1.0.0-alpha.1  
 
 {: .warning }  
 This documentation is not complete.  

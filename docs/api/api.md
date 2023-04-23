@@ -11,8 +11,13 @@ permalink: docs/api
 
 Contains API related functions.  
 
-{: .currentversion }  
-LegoLib: API 1.0.0-alpha.1  
+{: .latestrelease }  
+>  
+> {: .release}  
+> LegoLib: API **NOT RELEASED**
+>  
+> {: .development}  
+> LegoLib: API 1.0.0-alpha.1  
 
 {: .warning }  
 This documentation is not complete.  

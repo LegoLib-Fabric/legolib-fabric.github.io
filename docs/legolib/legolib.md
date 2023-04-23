@@ -11,8 +11,13 @@ permalink: docs/legolib
 
 Contains all LegoLib modules.  
 
-{: .currentversion }  
-LegoLib 3.0.0-alpha.1  
+{: .latestrelease }  
+>  
+> {: .release}  
+> LegoLib 2.5.0  
+>  
+> {: .development}  
+> LegoLib 3.0.0-alpha.1  
 
 {: .warning }  
 This documentation is not complete.  
