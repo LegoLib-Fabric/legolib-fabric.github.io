@@ -21,6 +21,7 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 {: .warning }  
 > LegoLib 3.0.0 is not yet released.  
 > This documentation is not complete.  
+
  - More information will be added throughout the 3.0.0 development cycle.
 
 ## Helpful Links  
