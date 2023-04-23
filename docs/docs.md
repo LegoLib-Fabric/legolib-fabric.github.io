@@ -11,8 +11,13 @@ permalink: docs
 This documentation contains information for LegoLib.  
 For step-by-step guides check [Tutorials](https://legolib-fabric.mclegoman.com/tutorials).  
 
-{: .currentversion }  
-LegoLib 3.0.0-alpha.1  
+{: .latestrelease }  
+>  
+> {: .release}  
+> LegoLib 2.5.0  
+>  
+> {: .development}  
+> LegoLib 3.0.0-alpha.1  
 
 {: .warning }  
 This documentation is not complete.  

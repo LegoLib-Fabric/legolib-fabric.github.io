@@ -44,12 +44,18 @@ callouts:
   recommendedtools:
     title: RECOMMENDED TOOLS
     color: green
-  currentversion:
+  latestrelease:
     title: LATEST RELEASE
     color: purple
+  release:
+    title: RELEASE
+    color: green
+  development:
+    title: DEVELOPMENT
+    color: yellow
   requires:
     title: REQUIRES
-    color: yellow
+    color: blue
 
 nav_sort: case_sensitive
 
