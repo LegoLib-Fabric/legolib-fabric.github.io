@@ -22,5 +22,5 @@ For step-by-step guides check [Tutorials](https://legolib-fabric.mclegoman.com/t
 > {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-> {% assign release = site.data.messages["incomplete_documentation"] %}  
-> {{ release.message }}  
+> {% assign message = site.data.messages["incomplete_documentation"] %}  
+> {{ message.message }}  

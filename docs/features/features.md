@@ -22,5 +22,5 @@ Contains client-side feature related functions.
 > {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-> {% assign release = site.data.messages["incomplete_documentation"] %}  
-> {{ release.message }}  
+> {% assign message = site.data.messages["incomplete_documentation"] %}  
+> {{ message.message }}  

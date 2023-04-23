@@ -19,8 +19,8 @@ entity_names allows for a custom texture for named entities.
 > LegoLib v3.0.0 or later.  
 
 {: .warning }  
-> {% assign release = site.data.messages["incomplete_documentation"] %}  
-> {{ release.message }}
+> {% assign message = site.data.messages["incomplete_documentation"] %}  
+> {{ message.message }}  
 
 ## JSON Format  
 
@@ -43,8 +43,9 @@ This example will change the texture of an allay named `Golden` to
 
 ## Entity Types  
 
-{: .important }
-Make sure the filename is the name in lowercase.  
+{: .important }  
+> {% assign message = site.data.messages["lowercase_name_filename"] %}  
+> {{ message.message }}  
 
 | Entity Type   | JSON Location                                       | Texture Location                                            |  
 |:--------------|:----------------------------------------------------|:------------------------------------------------------------|  
