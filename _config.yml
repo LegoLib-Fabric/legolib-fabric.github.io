@@ -45,7 +45,7 @@ callouts:
     title: RECOMMENDED TOOLS
     color: green
   currentversion:
-    title: CURRENT VERSION
+    title: LATEST RELEASE
     color: purple
   requires:
     title: REQUIRES
