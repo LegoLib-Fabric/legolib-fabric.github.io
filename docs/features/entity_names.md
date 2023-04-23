@@ -19,8 +19,7 @@ entity_names allows for a custom texture for named entities.
 > LegoLib v3.0.0 or later.  
 
 {: .warning }  
-> LegoLib: Features 1.0.0 is not yet released.  
-> This documentation is not complete.  
+This documentation is not complete.  
 
 ## JSON Format  
 

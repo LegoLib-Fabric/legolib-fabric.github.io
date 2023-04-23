@@ -15,5 +15,4 @@ Contains all LegoLib modules.
 LegoLib 3.0.0-alpha.1  
 
 {: .warning }  
-> LegoLib 3.0.0 is not yet released.  
-> This documentation is not complete.  
+This documentation is not complete.  

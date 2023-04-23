@@ -11,6 +11,4 @@ permalink: changelog/api
 Find out what is new with LegoLib: API.  
 
 {: .note }  
-> LegoLib: API 1.0.0 is not yet released.  
-> Change Logs are not yet avaliable.   
-
+Change Logs are not yet avaliable.  

@@ -19,8 +19,7 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 ## General Information  
 
 {: .warning }  
-> LegoLib 3.0.0 is not yet released.  
-> This documentation is not complete.  
+This documentation is not complete.  
 
  - Information regarding each LegoLib module can be found in the [Documentation](https://legolib-fabric.mclegoman.com/docs) section.  
  - Tutorials for common tasks can be found in the [Tutorials](https://legolib-fabric.mclegoman.com/tutorials) section.  

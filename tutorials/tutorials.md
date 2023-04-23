@@ -9,5 +9,4 @@ permalink: /tutorials
 {: .d-inline-block }  
 
 {: .note }  
-> LegoLib 3.0.0 is not yet released.  
-> Tutorials are not yet avaliable.   
+Tutorials are not yet avaliable.   
