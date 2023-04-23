@@ -24,9 +24,6 @@ LegoLib is a Minecraft mod developed for Fabric. It helps mod developers to crea
 
 ## General Information  
 
-{: .warning }  
-This documentation is not complete.  
-
  - Information regarding each LegoLib module can be found in the [Documentation](https://legolib-fabric.mclegoman.com/docs) section.  
  - Tutorials for common tasks can be found in the [Tutorials](https://legolib-fabric.mclegoman.com/tutorials) section.  
  - Changes to LegoLib modules can be found in the [Change Log](https://legolib-fabric.mclegoman.com/changelog) section in their respective pages.  
