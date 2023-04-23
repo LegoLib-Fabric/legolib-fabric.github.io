@@ -8,6 +8,8 @@ permalink: /license
 # Attribution and Licencing  
 {: .d-inline-block }  
 
+This website is hosted by Github Pages.
+
 This website uses the [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) Jekyll template.  
 The [`just-the-docs`](https://github.com/just-the-docs/just-the-docs-template) template is licensed under the [MIT](https://github.com/just-the-docs/just-the-docs-template/blob/main/LICENSE) license.  
 
