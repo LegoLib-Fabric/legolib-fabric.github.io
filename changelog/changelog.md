@@ -2,7 +2,7 @@
 layout: default
 title: Change Log
 nav_order: 4
-has_children: false
+has_children: true
 permalink: changelog
 ---
 # Change Log  
