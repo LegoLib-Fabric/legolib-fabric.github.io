@@ -11,6 +11,6 @@ permalink: changelog/base
 Find out what is new with LegoLib: Base.  
 
 {: .note }  
-> LegoLib 3.0.0 is not yet released.  
+> LegoLib: Base 1.0.0 is not yet released.  
 > Change Logs are not yet avaliable.   
 

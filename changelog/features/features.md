@@ -11,6 +11,6 @@ permalink: changelog/features
 Find out what is new with LegoLib: Features.  
 
 {: .note }  
-> LegoLib 3.0.0 is not yet released.  
+> LegoLib: Features 1.0.0 is not yet released.  
 > Change Logs are not yet avaliable.   
 
