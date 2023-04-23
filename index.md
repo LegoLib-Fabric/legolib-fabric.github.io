@@ -24,6 +24,7 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 
  - More information will be added throughout the 3.0.0 development cycle.
 
+
 ## Helpful Links  
 
  - [LegoLib Media and Templates](https://github.com/LegoLib-Fabric/community)  
