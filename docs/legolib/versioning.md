@@ -10,7 +10,7 @@ permalink: docs/legolib/versioning
 {: .d-inline-block }  
 
 LegoLib uses the following versioning style  
-`major.minor.patch.release_type.build`  
+`major.minor.patch.release_type_short_code.build`  
 
 ## Version Types
 
