@@ -14,10 +14,13 @@ For step-by-step guides check [Tutorials](https://legolib-fabric.mclegoman.com/t
 {: .latestrelease }  
 >  
 > {: .release}  
-> LegoLib 2.5.0  
+> {% assign release = site.data.legolib["release"] %}  
+> {{ release.name }} {{ release.version }}  
 >  
 > {: .development}  
-> LegoLib 3.0.0-alpha.1  
+> {% assign development = site.data.legolib["development"] %}  
+> {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-This documentation is not complete.  
+> {% assign release = site.data.messages["incomplete_documentation"] %}  
+> {{ release.message }}  

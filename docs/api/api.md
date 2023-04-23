@@ -14,10 +14,13 @@ Contains API related functions.
 {: .latestrelease }  
 >  
 > {: .release}  
-> LegoLib: API **NOT RELEASED**
+> {% assign release = site.data.api["release"] %}  
+> {{ release.name }} {{ release.version }}  
 >  
 > {: .development}  
-> LegoLib: API 1.0.0-alpha.1  
+> {% assign development = site.data.api["development"] %}  
+> {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-This documentation is not complete.  
+> {% assign release = site.data.messages["incomplete_documentation"] %}  
+> {{ release.message }}  

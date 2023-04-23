@@ -14,10 +14,13 @@ Contains functions required by all modules.
 {: .latestrelease }  
 >  
 > {: .release}  
-> LegoLib: Base **NOT RELEASED**
+> {% assign release = site.data.base["release"] %}  
+> {{ release.name }} {{ release.version }}  
 >  
 > {: .development}  
-> LegoLib: Base 1.0.0-alpha.1  
+> {% assign development = site.data.base["development"] %}  
+> {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-This documentation is not complete.  
+> {% assign release = site.data.messages["incomplete_documentation"] %}  
+> {{ release.message }}  

@@ -14,10 +14,13 @@ Contains client-side feature related functions.
 {: .latestrelease }  
 >  
 > {: .release}  
-> LegoLib: Features **NOT RELEASED**
+> {% assign release = site.data.features["release"] %}  
+> {{ release.name }} {{ release.version }}  
 >  
 > {: .development}  
-> LegoLib: Features 1.0.0-alpha.1  
+> {% assign development = site.data.features["development"] %}  
+> {{ development.name }} {{ development.version }}  
 
 {: .warning }  
-This documentation is not complete.  
+> {% assign release = site.data.messages["incomplete_documentation"] %}  
+> {{ release.message }}  

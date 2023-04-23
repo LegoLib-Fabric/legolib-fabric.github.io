@@ -1,0 +1,6 @@
+release:
+    name: LegoLib: Base
+    version: **NOT RELEASED**
+development:
+    name: LegoLib: Base
+    version: 1.0.0-alpha.1
