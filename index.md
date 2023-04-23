@@ -23,6 +23,7 @@ Visit [Curseforge](https://www.curseforge.com/minecraft/mc-mods/legolib/files) t
 > {: .development}  
 > LegoLib: Features 1.0.0-alpha.1  
 
+
 ## General Information  
 
 {: .warning }  
@@ -32,6 +33,7 @@ This documentation is not complete.
  - Tutorials for common tasks can be found in the [Tutorials](https://legolib-fabric.mclegoman.com/tutorials) section.  
  - Changes to LegoLib modules can be found in the [Change Log](https://legolib-fabric.mclegoman.com/changelog) section in their respective pages.  
  - Attribution and Licensing can be found on the [Attribution and Licensing](https://legolib-fabric.mclegoman.com/license) page.  
+
 
 ## Helpful Links  
 
