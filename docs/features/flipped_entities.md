@@ -1,12 +1,12 @@
 ---
 layout: default
-title: flipped_entities
+title: Flipped Entities
 parent: Features
 grand_parent: Documentation
 nav_order: 2
 permalink: docs/features/flipped_entities
 ---
-# flipped_entities  
+# Flipped Entities  
 {: .d-inline-block }  
 
 ALPHA  

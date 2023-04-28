@@ -1,12 +1,12 @@
 ---
 layout: default
-title: entity_names
+title: Entity Names
 parent: Features
 grand_parent: Documentation
 nav_order: 1
 permalink: docs/features/entity_names
 ---
-# entity_names  
+# Entity Names  
 {: .d-inline-block }  
 
 ALPHA  
