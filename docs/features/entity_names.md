@@ -18,6 +18,10 @@ entity_names allows for a custom texture for named entities.
 > LegoLib: Features v1.0.0 or later.  
 > LegoLib v3.0.0 or later.  
 
+{: .note }  
+> {% assign message = site.data.messages["exception_player"] %}  
+> {{ message.message }}  
+
 {: .warning }  
 > {% assign message = site.data.messages["incomplete_documentation"] %}  
 > {{ message.message }}  
