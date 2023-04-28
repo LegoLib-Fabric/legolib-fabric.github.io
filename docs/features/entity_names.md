@@ -79,13 +79,6 @@ entity_names uses the same texture layout as the vanilla entity.
 > [Blockbench](https://www.blockbench.net) is great for creating and editing minecraft textures. [^2]   
 
 
-## Resource Pack Template  
-
-Use our resource pack template to get started  
-
-[Download Template](https://github.com/LegoLib-Fabric/community/tree/main/templates/entity_names){: .btn .btn-purple }  
-
-
 ---
 
 [^1]: We are not affiliated with [mcasset.cloud](https://mcasset.cloud).  

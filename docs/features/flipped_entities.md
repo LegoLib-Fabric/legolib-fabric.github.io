@@ -51,12 +51,6 @@ This example will flip all entities named `MCLegoMan` upside down.
 |:--------------------------------------------|  
 | `assets/legolib/flipped_entities/name.json` |  
 
-## Resource Pack Template  
-
-Use our resource pack template to get started  
-
-[Download Template](https://github.com/LegoLib-Fabric/community/tree/main/templates/flipped_entities){: .btn .btn-purple }  
-
 
 ---
 
