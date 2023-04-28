@@ -43,7 +43,7 @@ This example will change the texture of an allay named `Golden` to
 `legolib:textures/entity_names/allay/golden.png`  
 
 
-## Entity Types  
+## File Locations  
 
 {: .important }  
 > {% assign message = site.data.messages["lowercase_filename"] %}  
