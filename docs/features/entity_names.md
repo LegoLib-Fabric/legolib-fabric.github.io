@@ -46,7 +46,7 @@ This example will change the texture of an allay named `Golden` to
 ## Entity Types  
 
 {: .important }  
-> {% assign message = site.data.messages["lowercase_name_filename"] %}  
+> {% assign message = site.data.messages["lowercase_filename"] %}  
 > {{ message.message }}  
 
 | Entity Type   | JSON Location                                       | Texture Location                                            |  
