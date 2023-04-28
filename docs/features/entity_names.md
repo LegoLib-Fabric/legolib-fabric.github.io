@@ -27,6 +27,7 @@ entity_names allows for a custom texture for named entities.
 | Field        | Type   | Description                    |  
 |:-------------|:-------|:-------------------------------|  
 | `name`       | String | The custom name of the entity. |  
+| `entity`     | String | The entity type.               |  
 
 
 ## Example  
@@ -35,6 +36,7 @@ File: `assets/legolib/textures/entity_names/allay/golden.json`
 ```  
 {  
     "name": "Golden"  
+    "entity": "allay"  
 }  
 ```  
 This example will change the texture of an allay named `Golden` to  
@@ -49,19 +51,19 @@ This example will change the texture of an allay named `Golden` to
 
 | Entity Type   | JSON Location                                       | Texture Location                                            |  
 |:--------------|:----------------------------------------------------|:------------------------------------------------------------|  
-| `allay`       | `assets/legolib/entity_names/allay/name.json`       | `assets/legolib/textures/entity_names/allay/name.png`       |  
-| `armor_stand` | `assets/legolib/entity_names/armor_stand/name.json` | `assets/legolib/textures/entity_names/armor_stand/name.png` |  
-| `arrow`       | `assets/legolib/entity_names/arrow/name.json`       | `assets/legolib/textures/entity_names/arrow/name.png`       |  
-| `axolotl`     | `assets/legolib/entity_names/axolotl/name.json`     | `assets/legolib/textures/entity_names/axolotl/name.png`     |  
-| `bat`         | `assets/legolib/entity_names/bat/name.json`         | `assets/legolib/textures/entity_names/bat/name.png`         |  
-| `bee`         | `assets/legolib/entity_names/bee/name.json`         | `assets/legolib/textures/entity_names/bee/name.png`         |  
-| `blaze`       | `assets/legolib/entity_names/blaze/name.json`       | `assets/legolib/textures/entity_names/blaze/name.png`       |  
-| `cat`         | `assets/legolib/entity_names/cat/name.json`         | `assets/legolib/textures/entity_names/cat/name.png`         |  
-| `cave_spider` | `assets/legolib/entity_names/cave_spider/name.json` | `assets/legolib/textures/entity_names/cave_spider/name.png` |  
-| `chicken`     | `assets/legolib/entity_names/chicken/name.json`     | `assets/legolib/textures/entity_names/chicken/name.png`     |  
-| `cod`         | `assets/legolib/entity_names/cod/name.json`         | `assets/legolib/textures/entity_names/cod/name.png`         |  
-| `cow`         | `assets/legolib/entity_names/cow/name.json`         | `assets/legolib/textures/entity_names/cow/name.png`         |  
-| `creeper`     | `assets/legolib/entity_names/creeper/name.json`     | `assets/legolib/textures/entity_names/creeper/name.png`     |  
+| `allay`       | `assets/legolib/entity_names/allay_name.json`       | `assets/legolib/textures/entity_names/allay/name.png`       |  
+| `armor_stand` | `assets/legolib/entity_names/armor_stand_name.json` | `assets/legolib/textures/entity_names/armor_stand/name.png` |  
+| `arrow`       | `assets/legolib/entity_names/arrow_name.json`       | `assets/legolib/textures/entity_names/arrow/name.png`       |  
+| `axolotl`     | `assets/legolib/entity_names/axolotl_name.json`     | `assets/legolib/textures/entity_names/axolotl/name.png`     |  
+| `bat`         | `assets/legolib/entity_names/bat_name.json`         | `assets/legolib/textures/entity_names/bat/name.png`         |  
+| `bee`         | `assets/legolib/entity_names/bee_name.json`         | `assets/legolib/textures/entity_names/bee/name.png`         |  
+| `blaze`       | `assets/legolib/entity_names/blaze_name.json`       | `assets/legolib/textures/entity_names/blaze/name.png`       |  
+| `cat`         | `assets/legolib/entity_names/cat_name.json`         | `assets/legolib/textures/entity_names/cat/name.png`         |  
+| `cave_spider` | `assets/legolib/entity_names/cave_spider_name.json` | `assets/legolib/textures/entity_names/cave_spider/name.png` |  
+| `chicken`     | `assets/legolib/entity_names/chicken_name.json`     | `assets/legolib/textures/entity_names/chicken/name.png`     |  
+| `cod`         | `assets/legolib/entity_names/cod_name.json`         | `assets/legolib/textures/entity_names/cod/name.png`         |  
+| `cow`         | `assets/legolib/entity_names/cow_name.json`         | `assets/legolib/textures/entity_names/cow/name.png`         |  
+| `creeper`     | `assets/legolib/entity_names/creeper_name.json`     | `assets/legolib/textures/entity_names/creeper/name.png`     |  
 
 
 ## Textures  
