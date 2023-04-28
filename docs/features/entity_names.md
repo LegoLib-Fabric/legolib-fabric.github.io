@@ -24,10 +24,10 @@ entity_names allows for a custom texture for named entities.
 
 ## JSON Format  
 
-| Field        | Type   | Description                    | Required |  
-|:-------------|:-------|:-------------------------------|:---------|  
-| `name`       | String | The custom name of the entity. | Yes      |  
-| `entity`     | String | The entity type.               | Yes      |  
+| Field        | Type   | Required | Description                    |  
+|:-------------|:-------|:---------|:-------------------------------|  
+| `name`       | String | Yes      | The custom name of the entity. |  
+| `entity`     | String | Yes      | The entity type.               |  
 
 
 ## Example  
