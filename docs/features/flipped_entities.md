@@ -1,18 +1,18 @@
 ---
 layout: default
-title: entity_names
+title: flipped_entities
 parent: Features
 grand_parent: Documentation
-nav_order: 1
-permalink: docs/features/entity_names
+nav_order: 2
+permalink: docs/features/flipped_entities
 ---
-# entity_names  
+# flipped_entities  
 {: .d-inline-block }  
 
 ALPHA  
 {: .label .label-yellow }  
 
-entity_names allows for a custom texture for named entities.  
+flipped_entities allows for flipping upside down for named entities.  
 
 {: .requires }  
 > LegoLib: Features v1.0.0 or later.  
@@ -24,10 +24,10 @@ entity_names allows for a custom texture for named entities.
 
 ## JSON Format  
 
-| Field        | Type   | Required | Description                    |  
-|:-------------|:-------|:---------|:-------------------------------|  
-| `name`       | String | Yes      | The custom name of the entity. |  
-| `entity`     | String | Yes      | The entity type.               |  
+| Field        | Type    | Required | Description                       |  
+|:-------------|:--------|:---------|:----------------------------------|  
+| `name`       | String  | Yes      | The custom name of the entity.    |  
+| `flipped`    | Boolean | Yes      | The flipped status of the entity. |  
 
 
 ## Example  
