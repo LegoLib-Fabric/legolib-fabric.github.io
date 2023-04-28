@@ -38,3 +38,8 @@ LegoLib is a Minecraft mod developed for Fabric. It helps mod developers to crea
  - [LegoLib Media and Templates](https://github.com/LegoLib-Fabric/community)  
  - [FabricMC: Develop](https://fabricmc.net/develop)  
  - [Minecraft Wiki: Creating a resource pack](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack)  
+
+
+---
+
+

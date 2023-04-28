@@ -87,5 +87,6 @@ Use our resource pack template to get started
 
 
 ---
+
 [^1]: We are not affiliated with [mcasset.cloud](https://mcasset.cloud).  
 [^2]: We are not affiliated with [Blockbench](https://www.blockbench.net).  
