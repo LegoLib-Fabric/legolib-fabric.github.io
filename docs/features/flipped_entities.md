@@ -18,12 +18,12 @@ flipped_entities allows for flipping upside down for named entities.
 > LegoLib: Features v1.0.0 or later.  
 > LegoLib v3.0.0 or later.  
 
-{: .warning }  
-> {% assign message = site.data.messages["incomplete_documentation"] %}  
-> {{ message.message }}  
-
 {: .note }  
 > {% assign message = site.data.messages["exception_player"] %}  
+> {{ message.message }}  
+
+{: .warning }  
+> {% assign message = site.data.messages["incomplete_documentation"] %}  
 > {{ message.message }}  
 
 ## JSON Format  
