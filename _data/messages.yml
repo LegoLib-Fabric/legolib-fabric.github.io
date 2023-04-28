@@ -2,3 +2,5 @@ incomplete_documentation:
     message: "This documentation is not complete."
 lowercase_filename:
     message: "Make sure the filenames are in lowercase."
+exception_player:
+    message: "This will not work on player entities."

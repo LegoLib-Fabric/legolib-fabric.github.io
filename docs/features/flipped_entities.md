@@ -22,6 +22,10 @@ flipped_entities allows for flipping upside down for named entities.
 > {% assign message = site.data.messages["incomplete_documentation"] %}  
 > {{ message.message }}  
 
+{: .note }  
+> {% assign message = site.data.messages["exception_player"] %}  
+> {{ message.message }}  
+
 ## JSON Format  
 
 | Field        | Type    | Required | Description                       |  
@@ -59,5 +63,4 @@ Use our resource pack template to get started
 
 
 ---
-[^1]: We are not affiliated with [mcasset.cloud](https://mcasset.cloud).  
-[^2]: We are not affiliated with [Blockbench](https://www.blockbench.net).  
+
